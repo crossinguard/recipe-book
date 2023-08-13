@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": " Index",
-    "section": "",
-    "text": "jollof rice gf\n\n\n\n\n\nlime tofu gf\nmayo gf\n\n\n\n\n\nsandwich bread - classic white\n\n\n\n\n\n\n\ngf gluten-free"
-  },
-  {
-    "objectID": "index.html#tags",
-    "href": "index.html#tags",
-    "title": "Index",
-    "section": " Tags",
-    "text": "Tags\ngf gluten-free"
-  },
-  {
     "objectID": "recipes/sandwich-bread.html",
     "href": "recipes/sandwich-bread.html",
     "title": "Sandwich Bread - Classic White",
@@ -89,6 +75,13 @@
     "title": "Chocolate Chip Cookies",
     "section": "",
     "text": "coming soon"
+  },
+  {
+    "objectID": "index.html#tags",
+    "href": "index.html#tags",
+    "title": "Index",
+    "section": " Tags",
+    "text": "Tags\ngf gluten-free"
   },
   {
     "objectID": "recipes/brownies.html",
