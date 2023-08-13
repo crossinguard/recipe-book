@@ -1,0 +1,93 @@
+/*-- scss:defaults --*/
+// Core Colors
+$blue: #02afca !default;
+$blue-dark: darken($blue, 20%);
+$blue-light: lighten($blue, 20%);
+
+$purple: #b3a9ef !default;
+$purple-dark: darken($purple, 20%);
+$purple-light: lighten($purple, 20%);
+
+$orange: #eaa385 !default;
+$orange-dark: darken($orange, 20%);
+$orange-light: lighten($orange, 20%);
+
+$red: #c33b9e !default;
+$red-dark: darken($red, 20%);
+$red-light: lighten($red, 20%);
+
+$black: #222222 !default;
+$black-dark: darken($black, 20%);
+$black-light: lighten($black, 20%);
+
+$white: #fbeeda !default;
+$white-dark: darken($white, 20%);
+$white-light: lighten($white, 20%);
+
+// Theme Colors
+
+$primary: $blue !default; // links
+$secondary: $blue-light !default; //code
+$success: $blue-dark !default; // navbar
+$info: $purple !default; // headings
+$warning: $orange !default; //tags
+$danger: $red !default; // tags
+$light: $white !default;
+$dark: $black !default;
+
+$bg-light: $light !default;
+$bg-dark: $dark !default;
+
+/*-- scss:rules --*/
+$web-font-path: "https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&family=Righteous&display=swap" !default;
+@if $web-font-path {
+  @import url($web-font-path);
+}
+
+blockquote {
+  border-left: 5px solid $primary;
+  color: $light !important;
+  font-weight: 200;
+  p em {
+    color: inherit;
+  }
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: $light;
+  background: $bg-dark;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Righteous", cursive;
+  color: $info;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+table {
+  color: $light !important;
+}
+
+code {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: $secondary;
+  background: #333333 !important;
+}
+
+.tag-description {
+  font-weight: 200;
+}

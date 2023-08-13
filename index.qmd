@@ -1,0 +1,28 @@
+---
+title: Index
+---
+
+### A - E
+
+<!-- - [brownies](recipes\brownies.qmd) <span class="badge bg-warning">gf</span>
+
+- [chocolate chip cookies](recipes\chocolate-chip-cookies.qmd) -->
+
+### F - J
+
+- [jollof rice](recipes\jollof-rice.qmd) <span class="badge bg-warning">gf</span>
+
+### K - O
+
+- [lime tofu](recipes\lime-tofu.qmd) <span class="badge bg-warning">gf</span>
+
+- [mayo](recipes\mayo.qmd) <span class="badge bg-warning">gf</span>
+
+### P - T
+
+- [sandwich bread - classic white](recipes\sandwich-bread.qmd)
+
+### U - Z
+
+## <i class="bi bi-tag-fill"></i> Tags
+<span class="badge bg-warning">gf</span><span class="tag-description"> gluten-free</span>

@@ -1,0 +1,100 @@
+---
+title: Jollof Rice
+---
+<span class="badge bg-warning">gf</span><span class="tag-description"> gluten-free</span>
+
+## About
+
+**Yield** update me
+
+**Total Time** 1 hr
+
+- [Step A | **Prep Tomato Sauce**](#sec-process-a) *15 min*
+- [Step B | **Cook Rice**](#sec-process-b) *30 min*
+- [Step C | **Rest**](#sec-process-c) *15 min*
+   
+> *adapted from*: [Chef John (allrecipes.com)](https://www.allrecipes.com/chef-johns-jollof-rice-recipe-7499757)
+
+## Materials
+
+### Tomato Sauce
+
+| item | #~metric~ | #~imperial~ |
+|-|-|-|
+| `tomato`, cored and quartered | 1 | 1 |
+| `red bell pepper`, rough chopped | 1 | 1 |
+| `habanero`, whole | 1 | 1 |
+| `fresno` or `jalapeno`, whole | 1 | 1 |
+| `garlic clove`, peeled | 4 | 4 |
+| `ginger`, minced | - | 1 Tbsp |
+| `water` | - | 2 c |
+
+### Rice
+
+| item | #~metric~ | #~imperial~ |
+|-|-|-|
+| `olive oil` | - | 1/3 c |
+| `red onion`, diced | 1 | 1 |
+| `salt` | - | 1 tsp |
+| `tomato paste` | - | 1/4 c |
+| `smoked paprika` | - | 2 Tbsp |
+| `curry powder` | - | 1 tsp |
+| `cumin` | - | 1 tsp |
+| `dried thyme` | - | 1 tsp |
+| `black pepper` | - | 1/2 tsp |
+| `tumeric` | - | 1/4 tsp |
+| `basmati rice` | - | 2-1/4 c |
+| `bay leaf` | 1 | 1 |
+| `chicken bouillon paste` | - | 1 Tbsp |
+| `green onion`, chopped | - | 1/4 c |
+| `cilantro`, chopped | - | 1/4 c |
+
+## Process
+
+### Step A | Prep Tomato Sauce{#sec-process-a}
+
+1. Add to a blender
+   - `tomato`, cored and quartered
+   - `red bell pepper`, rough chopped
+   - `habanero`, whole
+   - `fresno/jalapeno`, whole
+   - `garlic clove`, peeled
+   - `ginger`, minced
+   - `water`
+2. Blend on high until smooth
+
+### Step B | Cook Rice {#sec-process-b}
+
+3. Heat `olive oil` in a saucepan over medium heat
+4. Add diced `red onion` & `salt` to saucepan
+   - saute until onions start to soften, 4 - 5 min
+5. Cleared middle of the saucepan and add `tomato paste`
+   - saute for 2 - 3 min
+6. Season saucepan with
+   - `smoked paprika`
+   - `curry powder`
+   - `cumin`
+   - `dried thyme`
+   - `black pepper`
+   - `tumeric`
+7. Cook an additional 1 - 2 min until everything is well-combined
+8. Turn off the heat to saucepan
+   - stir in `basmati rice`, evenly coating all grains
+   - add `bay leaf` & `chicken bouillon paste`
+9. Turn saucepan heat to high
+   - stir in blended **Tomato Sauce**
+   - bring to a vigorous simmer
+10. Cover saucepan with tight lid
+    - reduce heat to medium-low
+    - simmer for 20 minutes without removing the lid or stirring
+
+### Step C | Rest {#sec-process-c}
+
+11. After 20 min, turn off the heat
+    - set timer for 12 min
+    - allow rice to sit, do not remove lid
+12. After 12 min, remove lid from saucepan
+    - fluff rice with a fork, separating all grains
+    - garnish with chopped `green onion` & `cilantro`
+
+## Documentation 

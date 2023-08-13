@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+reference-location: margin
+
+website:
+  favicon: favicon.ico
+  navbar:
+    title: good egg | recipe book
+    logo: resources\logo-alt.png
+
+format:
+  html:
+    toc: true
+    number-sections: false
+    link-external-icon: true
+    anchor-sections: false
+    theme: custom.scss

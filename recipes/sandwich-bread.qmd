@@ -1,0 +1,76 @@
+---
+title: Sandwich Bread - Classic White
+---
+
+## About
+
+**Yield** 1 large loaf
+
+**Total Time** 5 hr
+
+- [Step A | **Prep**](#sec-process-a) *15 min*
+- [Step B | **Cover & Let Rise**](#sec-process-b) *1 hr 10 min*
+- [Step C | **Shape & Let Rise**](#sec-process-c) *1 hr*
+- [Step D | **Bake**](#sec-process-d) *35 min*
+- [Step E | **Cool**](#sec-process-e) *2 hr*
+   
+> *adapted from*: [kingarthurbaking.com](https://www.kingarthurbaking.com/recipes/print/11196#main-content)
+
+## Materials
+
+| item | #~metric~ | #~imperial~ |
+|-|-|-|
+| `water`^[lesser amount in summer/humid climates, greater amount in winter/drier climates.], lukewarm | 320 g | - |
+| `honey` | 32 g | - |
+| `instant yeast` | 8 g | - |
+| `salt` | 11 g | - |
+| `butter`, softened | 28 g | 2 Tbsp |
+| `all-purpose flour`^[*alt* 200 g wheat flour, the rest ap flour] | 480 g | - |
+| `powdered milk` | 37 g | - |
+
+## Process
+
+### Step A | Prep {#sec-process-a}
+
+1. Add to stand mixer bowl, in order
+   - `water`, lukewarm
+   - `honey`
+   - `instant yeast`
+   - `salt`
+   - `butter`, softened
+   - `flour`
+   - `powdered milk`
+2. Hand mix for a bit to get things less powdery
+3. Mix with dough hook on speed 2 for **~5 min**^[UPDATE ME! time this and update the recipe]
+   - ingredients will ball, then get goopy looking, then will pull off the sides and ball again
+   - done when passes the [windowpane test](https://www.kingarthurbaking.com/blog/2022/10/14/what-is-the-windowpane-test-for-bread-dough)
+4. Single-hand the sticky dough ball and scrape clean bowl as able with alt hand
+   - lightly lube bowl with oil, rub around with alt hand
+   - pull the dough ball into a tight ball with both hands
+   - place dough ball in bowl seam side down
+
+### Step B | Cover & Let Rise {#sec-process-b}
+
+5. Cover dough bowl and let rise for 70 min^[60 - 90 min depending on room temp]
+   - should be puffy
+   - not quite doubled in size
+
+### Step C | Shape & Let Rise {#sec-process-c}
+
+6. Deflate dough and shape into log to fit loaf pan. 
+7. Place dough log into lightly lubed loaf pan
+8. Let rise 60 min^[60 - 90 min depending on room temp]
+   - slice a line down the center of log before placing in oven
+
+### Step D | Bake  {#sec-process-d}
+
+8. Bake for 20 min at 350 F
+9. Loosely tent with foil, bake for an additional 15 - 20 min at 350 F
+   - thermometer at center should read 195 - 200 F
+
+### Step E | Cool  {#sec-process-e}
+
+10.  Remove from oven, remove from loaf pan
+11.  Cool on rack for 2 hr
+
+## Documentation

@@ -1,0 +1,105 @@
+---
+title: Lime Tofu
+---
+<span class="badge bg-warning">gf</span><span class="tag-description"> gluten-free</span>
+
+## About
+
+**Yield** 4 servies
+
+**Total Time** 1 hr
+
+- [Step A | **Pickle**](#sec-process-a) *5 min*
+- [Step B | **Fry Tofu**](#sec-process-b) *20 min*
+- [Step C | **Prepare Sauce**](#sec-process-c) *25 min*
+- [Step D | **Combine**](#sec-process-d) *10 min*
+   
+> *adapted from*: [Ottolenghi Flavor](https://ottolenghi.co.uk/recipes/noors-black-lime-tofu-flavour)
+
+## Materials
+
+### Pickled Onions
+
+| item | #~metric~ | #~imperial~ |
+|-|-|-|
+| `apple cider vinegar` | - | 1 Tbsp |
+| `sugar` | - | 1 tsp |
+| `red onion`^[small onion with rounds from a mandoline], sliced | 60g | 1/2 c |
+| `salt` | - | 1/8 tsp |
+
+### Tofu
+
+| item | #~metric~ | #~imperial~ |
+|-|-|-|
+| `sunflower oil` | 600 ml | 2-1/2 c |
+| `extra firm tofu`, cubed ^[around 2 blocks, dry and 3/4" cubes] | 560 g | 1 lb 4 oz |
+| `corn starch` | - | 2 Tbsp|
+
+### Sauce
+| item | #~metric~ | #~imperial~ |
+|-|-|-|
+| `yellow onion`, rough chop | 300 g | 10-1/2 oz |
+| `garlic clove`, rough chop | 6 | 6 |
+| `olive oil` | 60 ml | 1/4 c |
+| `cumin seed`, rough crush | - | 2 tsp |
+| `lime juice` | - | 1 Tbsp |
+| `lime zest` | - | 1 Tbsp |
+| `tomato paste` | - | 2 Tbsp |
+| `water` | 400 ml | 1-2/3 c |
+| `sugar` | - | 1 tsp |
+| `salt` | - | 1-1/4 tsp |
+| `black pepper` | - | - |
+| `parsley`, rough chop | 20 g | 1 c |
+| `baby spinach` | 250 g | 6 c |
+
+## Process
+
+### Step A | Pickle {#sec-process-a}
+
+1. To a small bowl add
+   - `apple cider vinegar`
+   - `sugar`
+   - `red onion`, sliced
+   - `salt`
+2. Mix well to combine
+   - set aside to pickle
+
+### Step B | Fry Tofu {#sec-process-b}
+
+3. Heat `sunflower oil` in a pan over medium-high heat
+4. Toss the `extra firm tofu` in a bowl with the `corn starch` until well coated
+5. Fry the coated tofu in two batches until crispy and lightly browned, about 6 min per batch
+   - transfer to a plate lined with paper towels
+   - set aside
+
+### Step C | Prepare Sauce {#sec-process-c}
+
+6. To a food processor add rough chopped `yellow onion` and `garlic clove`
+   - pulse food processor until very finely minced but not puréed
+7. Heat `olive oil` in a pan over over medium-high heat
+8. Add the minced onion mixture and cook until softened and lightly browned, about 10 min
+   - stir occasionally
+9. Add to the pan
+   - `cumin seed`
+   - `lime juice`
+   - `lime zest`
+   - `tomato paste`
+10. Cook for 1 min before adding to the pan
+    - `water`
+    - `sugar`
+    - `salt`
+    - `black pepper`
+11. Bring to a simmer and cook 6 min until thick and rich
+    - stir occasionally
+
+### Step D | Combine  {#sec-process-d}
+
+12. Add crispy tofu, `parsley`, and `black pepper` to the pan
+   - stir to combine and coat
+13. Add the `baby spinach` in increments, stirring about 3 min until just wilted
+14. Top with pickled red onions
+
+## Documentation
+
+recipe added 2023-08-09
+recipe cooked 2023-08-13

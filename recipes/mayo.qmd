@@ -1,0 +1,62 @@
+---
+title: Mayo
+---
+<span class="badge bg-warning">gf</span><span class="tag-description"> gluten-free</span>
+
+## About
+
+**Yield** 1 cup
+
+**Total Time** 7 min
+
+**Note** refrigerate in an airtight container for up to 2 weeks
+
+- [Step A | **Prep**](#sec-process-a) *5 min*
+- [Step B | **Blend**](#sec-process-b) *1 min*
+- [Step C | **Season**](#sec-process-c) *1 min*
+   
+> *adapted from*: [https://www.seriouseats.com/two-minute-mayonnaise](https://www.seriouseats.com/two-minute-mayonnaise)
+
+## Materials
+
+| item | #~metric~ | #~imperial~ |
+|-|-|-|
+| `egg`, large | 1 | 1 |
+| `lemon juice` | 15 g | 1-1/2 Tbsp |
+| `dijon mustard` | 5 g | 1 tsp |
+| `garlic`^[optional], minced | 1 | 1 |
+| `oil`^[vegetable or canola] | 225 g | 1 c |
+| `salt` | pinch | pinch |
+
+## Process
+
+### Step A | Prep {#sec-process-a}
+
+1. Add to a jar^[should closely fits the head of the immersion blender], in order
+   - `egg`
+   - `lemon juice`
+   - `mustard`
+   - `garlic`, optional
+2. Pour `oil` on top of jar mixture
+   - allow to settle for 15 sec
+
+### Step B | Blend {#sec-process-b}
+
+3. Place head of immersion blender on top of egg yolk at bottom on jar
+4. Blend on high speed
+   - do not pulse or move the head of immersion blender
+   - slowly lift the head until all oil is emulsified
+
+### Step C | Season {#sec-process-c}
+
+5. Season to taste with `salt`
+
+## Documentation
+
+> It is imperative that the jar you use be just slightly larger than the head of the immersion blender, and the egg/lemon mixture must be in contact with the blades of the blender before you switch it on for this to work. 
+> The head of the blender must be firmly planted against the bottom of the jar until the mayonnaise starts to come together. 
+> If you can't find a jar the right size, double the recipe in order to increase the starting volume of the egg/lemon mixture.
+> 
+> If your mayonnaise is watery, that means it has not emulsified properly. Let the mixture settle and separate, then try blending again.
+>
+>- *J. Kenji López-Alt*
